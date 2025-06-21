@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    }
+  ],
+  "products": [
+    {
+      "nama_produk": "Laptop Acer Nitro 5",
+      "harga_satuan": 10000000,
+      "quantity": 5,
+      "id": "3298"
+    },
+    {
+      "nama_produk": "Mouse Legion",
+      "harga_satuan": 500000,
+      "quantity": 20,
+      "id": "fd68"
+    },
+    {
+      "nama_produk": "GamePad Rexus",
+      "harga_satuan": 10000,
+      "quantity": 10,
+      "id": "a992"
+    },
+    {
+      "nama_produk": "anjink",
+      "harga_satuan": 15000,
+      "quantity": 10,
+      "id": "3048"
+    }
+  ]
+}
